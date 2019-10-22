@@ -1,0 +1,21 @@
+body {
+    background-color:black;
+    color:yellow;
+    text-align:center;
+    font-family:'Courier New', Courier, monospace
+}
+
+#header {
+    color:white;
+}
+
+#descrip {
+    color:pink;
+    width:25%;
+    margin:auto;
+    padding-bottom:30px;
+}
+
+#poem {
+    color:red;
+}
