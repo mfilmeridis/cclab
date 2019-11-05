@@ -1,0 +1,25 @@
+body {
+    background-color:black;
+    color:white;
+    text-align:center;
+    font-family:'Courier New', Courier, monospace
+}
+
+#header {
+    color:white;
+}
+
+#descrip {
+    color:pink;
+    width:25%;
+    margin:auto;
+    padding-bottom:30px;
+}
+
+#apod {
+    color:black;
+    text-align:justify;
+}
+
+
+
